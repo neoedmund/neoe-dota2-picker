@@ -1,6 +1,6 @@
 # neoe-dota2-picker
 
-A dota2 hero picker helper [Chinese 中文 README](http://)
+A dota2 hero picker helper [Chinese 中文 README](https://github.com/neoedmund/neoe-dota2-picker/blob/master/README_cn.md)
 
 ## methodology 
 
