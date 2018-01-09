@@ -2,7 +2,7 @@
 
 A dota2 hero picker helper [Chinese 中文 README](https://github.com/neoedmund/neoe-dota2-picker/blob/master/README_cn.md)
 
-## causion
+## caution
 Because of the poor algorithm, the recommender will even make you harder to win, but the code is still useful because you can just replace with a better picker algorithm, UI is reuseful.
 
 ## methodology 
